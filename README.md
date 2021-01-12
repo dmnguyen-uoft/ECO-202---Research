@@ -9,7 +9,7 @@ Overview of results:
 + Watchers' grades are significantly higher in both Tests: 4 points in Test 1 and 6 points in Test 2
 + Treatment effect (of watching) is insignificant: Diff-in-Diff regression on sample of students who didn't watch videos before Test 1.
 
-Update on Result: Jan 12 2021
+# Update on Result: Jan 12 2021
 + Create time series graph for number of views/viewers in total and by Lectures
 + In time series graphs: Red lines are date of Exams, Gray lines are date of the Lectures
 + Students seem to watch the videos days after the lecture and few days before the exam date
