@@ -14,7 +14,7 @@ Overview of results:
 + In time series graphs: Red lines are date of Exams, Gray lines are date of the Lectures
 + Students seem to watch the videos days after the lecture and few days before the exam date
 + Distribution for 4 types of students:
-  + Type 1: Watch none: 133
-  + Type 2: Watch Test 1 but not 2: 14
-  + Type 3: Watch Test 2 but not 1: 86
-  + Type 4: Watch both: 84
+  + Type 1 - Watch none: 133
+  + Type 2 - Watch Test 1 but not 2: 14
+  + Type 3 - Watch Test 2 but not 1: 86
+  + Type 4 - Watch both: 84
