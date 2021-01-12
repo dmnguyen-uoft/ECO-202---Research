@@ -10,6 +10,6 @@ Overview of results:
 + Treatment effect (of watching) is insignificant: Diff-in-Diff regression on sample of students who didn't watch videos before Test 1.
 
 Update on Result: Jan 12 2021
-+ Create time series graph for number of views/viewers in total and by Lecture
-+ In time series graphs: Red lines are date of exam, Gray lines are date of the Lecture
++ Create time series graph for number of views/viewers in total and by Lectures
++ In time series graphs: Red lines are date of Exams, Gray lines are date of the Lectures
 + Students seem to watch the videos days after the lecture and few days before the exam date
